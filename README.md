@@ -1,16 +1,19 @@
 ### Hi, I'm Rafli 👋
 
-Telecommunications Engineering student at [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), working on networking, web development, and software experiments. Lab assistant at the Telecommunication Network Laboratory.
+Telecommunications Engineering student at [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), working on networking, web apps, and software experiments. Lab assistant at the Telecommunication Network Laboratory.
 
 🌐 **Website:** [raflialif.vercel.app](https://raflialif.vercel.app) &nbsp;|&nbsp; 📍 **Based in:** Surabaya, Indonesia
+
+> **Zero Hype Policy:** Stripped out inflated labels like *"Enterprise SOC/SOAR"* or *"Precision engineering"*. Kept it authentic: just an ITS student doing networking, building web tools, and fixing bugs.  
+> **No Visual Clutter:** Threw out the giant neon wave banners and gimmicky widgets. Just two quiet, compact activity cards and my actual work.
 
 ---
 
 ### What I'm Working On
 
-- 📡 **Telecommunications & Networking:** Exploring radio propagation, Loran-C/eLoran navigation simulations, and local network setups.
-- 💻 **Web & Software:** Building practical web apps with React, Next.js, and TypeScript, experimenting with automation scripts and APIs.
-- 🔬 **Research & Learning:** Studying federated learning applied to network traffic and testing browser automation with Playwright.
+- 📡 **Telecommunications & Networking:** Radio propagation, Loran-C/eLoran simulations, and local offline network setups.
+- 💻 **Web & Tools:** Simple, functional web apps with React, Next.js, and TypeScript, plus automation scripts that save time.
+- 🔬 **Research & Experiments:** Federated learning on network traffic and browser automation with Playwright.
 
 ---
 
@@ -28,11 +31,11 @@ Telecommunications Engineering student at [Institut Teknologi Sepuluh Nopember (
 
 ---
 
-### Tools & Technologies
+### Tools I Actually Use
 
 - **Languages:** Python, TypeScript, JavaScript, C/C++, Shell
 - **Web & Backend:** React, Next.js, Node.js, Supabase, Tailwind CSS
-- **Networking & Tools:** Wireshark, Cisco Packet Tracer, Linux, Docker, Git
+- **Networking & Systems:** Wireshark, Cisco Packet Tracer, Linux, Docker, Git
 
 ---
 
