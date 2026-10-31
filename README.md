@@ -16,7 +16,7 @@
 
 <br/>
 
-**"What a guy he is." — Literally nobody, probably.**
+**"Just a regular dude." — Literally nobody, probably.**
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ```yaml
 name: Rafli Alif
-species: Certified Human Being (allegedly)
+species: Human Being
 occupation: Telecommunications Engineering Student @ ITS
 side_quest: Lab Assistant @ Telecommunication Network Laboratory
 special_ability: Turning a 5-minute fix into a 6-hour side quest
@@ -35,20 +35,19 @@ weakness:
   - Unread documentation
   - "It works on my machine"
   - Wi-Fi with commitment issues
-brain_status: 404 — motivation not found
 ```
 
-I'm a telecommunications engineering student who enjoys networking, radio navigation, Linux servers, and building software that occasionally behaves like software.
+I'm a telecommunications engineering student who do not enjoys networking, radio navigation, Linux servers, and building software that occasionally behaves like software (I have to do it guys, blud needed the degrees so bad).
 
-One minute I'm studying electromagnetic waves. The next minute I'm SSH-ing into a server at an unreasonable hour because apparently peace was never an option.
+One minute I'm studying things. The next minute I'm clashing into a server at an unreasonable hour because yeah why not :D.
 
 I like understanding how things work under the hood. Unfortunately, sometimes the hood won't open.
 
 **My development cycle:**
 
-`Have an idea` → `Start project` → `Add unnecessary complexity` → `Google error message` → `Fix one thing, break three` → `Call it a learning experience`
+`Have an idea` → `Start project` → `Add super unnecessary complexity` → `Google error message` → `Fix one thing, break three` → `Call it a learning experience`
 
-No corporate buzzwords. No fake 10x engineer energy. Just one guy, several terminals, and an increasingly concerning number of browser tabs.
+No corporate buzzwords. No fake 10x engineer energy. Just one guy, several terminals, and an increasingly concerning number of browser tabs (records 62 tabs gang).
 
 ---
 
@@ -56,7 +55,7 @@ No corporate buzzwords. No fake 10x engineer energy. Just one guy, several termi
 
 | Project | Lore | Tech Stack |
 | :--- | :--- | :--- |
-| 🛰️ **[SIMULORAN](https://github.com/rhaffle87/SIMULORAN)** | GPS wasn't enough. Bro decided to bring ground-wave navigation back from the dead. Loran-C and eLoran simulator. | `React` `TypeScript` `Vite` |
+| 🛰️ **[SIMULORAN](https://github.com/rhaffle87/SIMULORAN)** | GPS wasn't enough. Bro decided to bring ground-wave navigation back from the dead. As a side project assigned within the scope of a telecommunications project management course. Loran-C and eLoran simulator. | `React` `TypeScript` `Vite` |
 | 🛡️ **[FCL-Research-Study](https://github.com/rhaffle87/FCL-Research-Study)** | Teaching AI to detect network threats without everyone handing over their data. Academic weapon or academic victim? Time will tell. | `Python` `PyTorch` |
 | 👁️ **[SeeNOW](https://github.com/rhaffle87/SeeNOW)** | An autonomous browser agent that clicks things for me. Finally, someone else can suffer through web UIs. | `Python` `Playwright` |
 | 🌐 **[S4RAS](https://github.com/rhaffle87/S4RAS)** | Offline server and networking kit for remote areas. Internet unavailable? We ball anyway. | `TypeScript` `Docker` `VoIP` |
@@ -101,7 +100,7 @@ Also familiar with Wireshark, Cisco Packet Tracer, MQTT, radio propagation, netw
 
 I study telecommunications engineering at ITS Surabaya.
 
-Which means I willingly signed up to learn about signals, networks, propagation, and mathematics that looks perfectly innocent until the equations start multiplying.
+Which means I willingly and consenting signed up to learn about signals, networks, propagation, and mathematics that looks perfectly innocent until the equations start multiplying and somehow growing out of nowehere.
 
 Current side quests include:
 
@@ -169,9 +168,9 @@ Current side quests include:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 
-### What a guy he is. 💀
+### Bro built different, factory settings discontinued
 
-<sub>Built with curiosity, caffeine, and an unhealthy relationship with the terminal.</sub>
+<sub>Built with curiosity, small caffeine, and an unhealthy relationship with the terminal.</sub>
 
 <sub>© Rafli Alif — no bugs were fixed in the making of this README. They were merely relocated.</sub>
 
