@@ -1,22 +1,22 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24,30&height=220&section=header&text=Rafli%20Alif&fontSize=42&fontAlignY=36&desc=25%25%20Human%20%7C%2075%25%20AI%20%7C%20100%25%20Responsible%20(Probably)&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24,30&height=220&section=header&text=Rafli%20Alif&fontSize=42&fontAlignY=36&desc=25%25%20Human%20%7C%2075%25%20AI%20%7C%20100%25%20Questionable%20Decisions&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
 <br/>
 
 <a href="https://github.com/rhaffle87">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=What+a+guy+he+is.;25%25+human%2C+75%25+AI%2C+100%25+commits.;AI-driven+development%2C+human-approved+chaos.;I+bring+the+idea.+AI+brings+the+other+tabs.;Currently+pair-programming+with+autocomplete+on+steroids.;The+AI+wrote+it.+I+have+to+maintain+it.;Human+in+the+loop.+Looping+for+hours." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=What+a+guy+he+is.;Telecom+student+by+day%2C+Stack+Overflow+warrior+by+night.;25%25+human%2C+75%25+AI.;I+bring+the+idea.+AI+helps+build+it.;My+code+works.+Do+not+ask+how.;Currently+debugging+a+problem+I+created+myself." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rhaffle87&style=for-the-badge&color=0284c7)](https://github.com/rhaffle87)
 [![Portfolio](https://img.shields.io/badge/Portfolio-trust_the_process-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://raflialif.vercel.app)
-[![Status](https://img.shields.io/badge/Current_status-AI--assisted_cooking-ff6b6b?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/rhaffle87)
+[![Status](https://img.shields.io/badge/Current_status-cooked-ff6b6b?style=for-the-badge)](https://github.com/rhaffle87)
 
 <br/>
 
-**One guy, several AI collaborators, and a suspicious amount of context windows.**
+**Just a guy building things, occasionally with artificial intelligence.**
 
 </div>
 
@@ -26,37 +26,29 @@
 
 ```yaml
 name: Rafli Alif
-species: Human (mostly)
+species: Human Being
 occupation: Telecommunications Engineering Student @ ITS
 side_quest: Lab Assistant @ Telecommunication Network Laboratory
-
-development_model:
-  human: 25%
-  AI: 75%
-  responsibility_for_production_bugs: 100% me
-
-workflow:
-  - Have an idea at an unreasonable hour
-  - Bring AI into the discussion
-  - Build something that was supposed to be simple
-  - Debate with the AI over a questionable implementation
-  - Test everything (including my patience)
-  - Ship it and pretend the plan was clear all along
+development_team: 25% Human, 75% AI
+special_ability: Turning a 5-minute fix into a 6-hour side quest
+weakness:
+  - One missing semicolon
+  - Unread documentation
+  - "It works on my machine"
+  - Wi-Fi with commitment issues
 ```
 
-I'm a telecommunications engineering student who enjoys networking, radio navigation, Linux servers, and building software with AI as a development partner.
+I'm a telecommunications engineering student who enjoys networking, radio navigation, Linux servers, and building software.
 
-I handle the ideas, system design, technical decisions, and the final judgment call. AI helps me explore approaches, write and refactor code, understand unfamiliar systems, and chase down bugs that have apparently chosen a permanent residence.
+I like experimenting with new technologies and using AI as a development partner—from brainstorming and research to implementation and debugging.
 
-Sometimes the AI is right. Sometimes I'm right. Sometimes we both confidently investigate the wrong file.
+I like understanding how things work under the hood. Unfortunately, sometimes the hood won't open.
 
-**The goal isn't to let AI do the thinking. It's to build things I couldn't build as efficiently alone.**
+**My development cycle:**
 
-### The development pipeline
+`Have an idea` → `Start project` → `Ask AI for help` → `Add unnecessary complexity` → `Google error message` → `Fix one thing, break three` → `Call it a learning experience`
 
-`Human has an idea` → `AI-assisted research` → `Architecture & implementation` → `Human reviews the output` → `Test the suspicious parts` → `Ship` → `Discover edge cases`
-
-No fake 10x engineer energy. Just AI-driven development, human oversight, and a growing collection of repositories that need maintenance.
+No corporate buzzwords. No fake 10x engineer energy. Just one guy, several terminals, AI assistance, and an increasingly concerning number of browser tabs.
 
 ---
 
@@ -64,87 +56,44 @@ No fake 10x engineer energy. Just AI-driven development, human oversight, and a 
 
 | Project | Lore | Tech Stack |
 | :--- | :--- | :--- |
-| 🛰️ **[SIMULORAN](https://github.com/rhaffle87/SIMULORAN)** | GPS wasn't enough. Built a Loran-C and eLoran simulator as a telecommunications project. AI can help with the code, but the signals still have to make sense. | `React` `TypeScript` `Vite` |
-| 🛡️ **[FCL-Research-Study](https://github.com/rhaffle87/FCL-Research-Study)** | Exploring Federated-Continual Learning for network intrusion detection. Teaching models to learn across clients without casually passing everyone's data around. Academic weapon or academic victim? | `Python` `PyTorch` |
-| 👁️ **[SeeNOW](https://github.com/rhaffle87/SeeNOW)** | An autonomous browser agent that clicks through web interfaces. Delegating browser chores to software because apparently one agent wasn't enough. | `Python` `Playwright` |
-| 🌐 **[S4RAS](https://github.com/rhaffle87/S4RAS)** | An offline server and networking kit for remote areas. Internet unavailable? We ball anyway. | `TypeScript` `Docker` `VoIP` |
-| 💸 **[Cukupin](https://github.com/rhaffle87/Cukupin)** | A personal finance tracker for answering the timeless question: where did the money go? The transaction history knows. | `Next.js` `Supabase` `Tailwind` |
-| 📍 **[presensi-extension](https://github.com/rhaffle87/presensi-extension)** | Experimenting with geolocation behavior in attendance portals. The browser has entered its geography era. | `JavaScript` `Browser APIs` |
-| 🎨 **[actife](https://github.com/rhaffle87/actife)** | An interactive machine-learning visualizer built to make neural networks a little less mysterious and a little more explorable. | `React` `JavaScript` |
+| 🛰️ **[SIMULORAN](https://github.com/rhaffle87/SIMULORAN)** | GPS wasn't enough. Bro decided to bring ground-wave navigation back from the dead. Loran-C and eLoran simulator. | `React` `TypeScript` `Vite` |
+| 🛡️ **[FCL-Research-Study](https://github.com/rhaffle87/FCL-Research-Study)** | Teaching AI to detect network threats without everyone handing over their data. Academic weapon or academic victim? | `Python` `PyTorch` |
+| 👁️ **[SeeNOW](https://github.com/rhaffle87/SeeNOW)** | An autonomous browser agent that clicks things for me. Finally, someone else can suffer through web UIs. | `Python` `Playwright` |
+| 🌐 **[S4RAS](https://github.com/rhaffle87/S4RAS)** | Offline server and networking kit for remote areas. Internet unavailable? We ball anyway. | `TypeScript` `Docker` `VoIP` |
+| 💸 **[Cukupin](https://github.com/rhaffle87/Cukupin)** | Personal finance tracker designed to answer the question: "Where did all my money go?" Probably iced coffee. | `Next.js` `Supabase` `Tailwind` |
+| 📍 **[presensi-extension](https://github.com/rhaffle87/presensi-extension)** | Browser extension for experimenting with geolocation behavior in attendance portals. The browser has entered its geography era. | `JavaScript` `Browser APIs` |
+| 🎨 **[actife](https://github.com/rhaffle87/actife)** | An interactive ML visualizer that makes neural networks look like something other than a mathematical threat. | `React` `JavaScript` |
 
-> AI can help write the code. It cannot magically make a bad architecture good, make undocumented assumptions disappear, or convince production to behave.
-
----
-
-## 🤖 The AI-Driven Development Department
-
-<div align="center">
-
-### Human direction. AI assistance. Actual engineering.
-
-<img src="https://img.shields.io/badge/Human-Ideas_%26_Decisions-2563eb?style=for-the-badge" alt="Human ideas and decisions" />
-<img src="https://img.shields.io/badge/AI-Research_%26_Implementation-7c3aed?style=for-the-badge" alt="AI research and implementation" />
-<img src="https://img.shields.io/badge/Reality-Testing_%26_Debugging-f97316?style=for-the-badge" alt="Testing and debugging" />
-
-</div>
-
-AI isn't just a chatbot I ask to explain a syntax error. It's part of how I approach development.
-
-- 🧠 **Research & brainstorming** — exploring alternatives, comparing approaches, and turning vague ideas into workable plans.
-- 🏗️ **Architecture & planning** — discussing system boundaries, APIs, data models, and implementation trade-offs before the codebase becomes a crime scene.
-- 💻 **AI-assisted coding** — generating scaffolding, implementing features, refactoring, and working through unfamiliar code.
-- 🔍 **Debugging & review** — analyzing logs, tracing bugs, reviewing changes, and challenging solutions that look suspiciously convenient.
-- 📚 **Learning & research** — understanding technical concepts, organizing literature, and using AI to support experimentation without outsourcing the conclusions.
-- 🧪 **Testing & validation** — checking whether the implementation actually works instead of trusting a convincing paragraph from a model.
-
-### The actual partnership
-
-| Human | AI |
-| :--- | :--- |
-| Decides what is worth building | Helps explore how to build it |
-| Provides project context | Processes and connects information |
-| Sets requirements and constraints | Helps translate them into implementations |
-| Reviews assumptions and trade-offs | Suggests alternatives and catches possible issues |
-| Tests, verifies, and takes responsibility | Occasionally introduces a bug with remarkable confidence |
-
-**25% human, 75% AI is a running joke, not an engineering metric.** The human still owns the decisions, verification, and consequences. The AI just gets a very generous seat at the table.
+> Powered by curiosity, AI assistance, and the ancient ritual of reading error messages.
 
 ---
 
-## 🧰 My Digital Toolbox (Now With Additional Intelligence)
+## 🧰 My Digital Toolbox
 
 <div align="center">
 
 ### 🧠 Languages That Have Personally Humbled Me
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,bash&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,bash&theme=dark" />
 
 ### 🖥️ Systems I Occasionally Convince to Work
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" alt="Systems and development tools" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" />
 
 ### 🌐 Things I Build Instead of Finishing Other Things
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,vite&theme=dark" alt="Web development tools" />
-
-### 🤖 My Unofficial AI Development Team
-
-<img src="https://img.shields.io/badge/LLMs-Research_%26_Reasoning-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Large language models" />
-<img src="https://img.shields.io/badge/AI_Coding-Pair_Programming-0f766e?style=for-the-badge" alt="AI-assisted coding" />
-<img src="https://img.shields.io/badge/Human_Review-Still_Mandatory-d97706?style=for-the-badge" alt="Human review" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,vite&theme=dark" />
 
 </div>
 
 Also familiar with Wireshark, Cisco Packet Tracer, MQTT, radio propagation, networking fundamentals, and the deeply spiritual experience of troubleshooting DNS.
 
-**Debugging protocol:**
-
-1. Read the error.
-2. Check the logs.
-3. Ask AI for a second opinion.
-4. Challenge the answer instead of blindly pasting it.
-5. Find out the problem was a configuration file from three weeks ago.
-6. Add the solution to the lore.
+**Favorite debugging strategies:**
+- Restart the service.
+- Check the logs.
+- Ask AI for a second opinion.
+- Blame DNS (sometimes correctly).
+- Stare at the screen until the bug gets embarrassed and leaves.
 
 ---
 
@@ -152,28 +101,25 @@ Also familiar with Wireshark, Cisco Packet Tracer, MQTT, radio propagation, netw
 
 I study Telecommunications Engineering at ITS Surabaya.
 
-Which means signals, networks, propagation models, and mathematics that looks perfectly innocent until the equations start multiplying and the assumptions stop holding.
+Which means I willingly signed up to learn about signals, networks, propagation, and mathematics that looks perfectly innocent until the equations start multiplying.
 
 Current side quests include:
 
 - 📶 Making packets go where they're supposed to go.
-- 🛰️ Understanding navigation systems beyond GPS.
-- 🐧 Keeping Linux servers alive through increasingly creative troubleshooting.
+- 🛰️ Understanding navigation systems that don't rely entirely on GPS.
+- 🐧 Keeping Linux servers alive through sheer determination.
 - 🤖 Exploring Federated Learning and Continual Learning.
-- 🔬 Conducting research with AI as a support tool, not a substitute for evidence.
-- 🛠️ Building software that connects ideas from networking, automation, and machine learning.
+- 🔬 Doing research while trying to remember what I named my variables.
 
 **Signal strength:** Depends on where I sit.
 
-**Mental bandwidth:** Shared with several AI sessions.
+**Mental bandwidth:** Shared with 47 open tabs.
 
 **Packet loss:** Emotionally, 3–5 business days.
 
-**Context window:** Somehow still not enough.
-
 ---
 
-## 📊 GitHub Stats (Evidence of Digital Life)
+## 📊 GitHub Stats (Proof of Digital Life)
 
 <div align="center">
 
@@ -191,16 +137,15 @@ Current side quests include:
 </div>
 
 <details>
-<summary>🕵️ Absolutely classified development records</summary>
+<summary>🕵️ Click here for absolutely classified information</summary>
 
-- Yes, AI has suggested code that looked brilliant until I ran it.
-- Yes, I have asked AI to fix a bug and received three new bugs as a complimentary package.
-- Yes, I have spent longer explaining context than writing the actual code.
-- Yes, I have told an AI that its previous answer was wrong. More than once.
-- No, generated code is not automatically correct just because it compiles.
-- Yes, sometimes the simplest solution was the right one all along.
-- The code is self-documenting. It is not.
-- If everything works on the first try, check the environment variables.
+- Yes, I have Googled an error before reading the error.
+- Yes, I have fixed a bug and immediately introduced a new one.
+- Yes, I have asked AI to fix something and had to fix its fix.
+- Yes, I have said "last commit" more than once.
+- No, I do not know why that one service works. Please don't restart it.
+- The code is self-documenting. (It is not.)
+- If everything works, I probably forgot to check something.
 
 </details>
 
@@ -215,7 +160,7 @@ Current side quests include:
 
 <br/><br/>
 
-*Open to interesting projects, thoughtful collaborations, AI-assisted workflows, and people who read the error before restarting the server.*
+*Open to cool projects, interesting collaborations, and people who don't respond to every bug with "have you tried turning it off and on again?"*
 
 </div>
 
@@ -225,14 +170,10 @@ Current side quests include:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 
-### Bro built different. Development team includes a language model.
+### Bro built different. Probably AI-assisted.
 
-<sub>25% human. 75% AI. 100% responsible for what gets shipped.</sub>
+<sub>25% human. 75% AI. 100% responsible for the commits.</sub>
 
-<br/>
-
-<sub>Built with curiosity, AI assistance, and an unhealthy relationship with the terminal.</sub>
-
-<sub>© Rafli Alif — AI helped write the code. The bugs remain a collaborative effort.</sub>
+<sub>© Rafli Alif — No bugs were fixed in the making of this README. They were merely relocated.</sub>
 
 </div>
